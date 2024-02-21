@@ -127,7 +127,7 @@ export const education = [
 export const projects = [
   {
     id: 0,
-    title: "e-store",
+    title: "e-store (working on it)",
     description:
       "Easy Navigation to Explore effortlessly with simple clicks to find what you want. Add to Cart & Wishlist option to Save for later with 'Add to Cart' and build your Wishlist for future buys. Search Functionality to Find what you need in seconds for our search functionality. Product Filters to Customize your search with more option, making it simple to find exactly what you need. Product Management Easily add, update, delete your product and Admin can add category and Subcategory.",
     image:
