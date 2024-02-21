@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.bf538fe7.css",
-    "main.js": "/Portfolio/static/js/main.f82ea997.js",
+    "main.js": "/Portfolio/static/js/main.f9a0633d.js",
     "static/media/Tausif-img.jpg": "/Portfolio/static/media/Tausif-img.e6d643e2b51137ce6dfd.jpg",
     "index.html": "/Portfolio/index.html",
     "main.bf538fe7.css.map": "/Portfolio/static/css/main.bf538fe7.css.map",
-    "main.f82ea997.js.map": "/Portfolio/static/js/main.f82ea997.js.map"
+    "main.f9a0633d.js.map": "/Portfolio/static/js/main.f9a0633d.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.f82ea997.js"
+    "static/js/main.f9a0633d.js"
   ]
 }
