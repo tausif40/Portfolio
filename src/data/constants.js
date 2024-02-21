@@ -101,7 +101,7 @@ export const education = [
   {
     id: 0,
     img: "https://gujaratisciencecollege.in/wp-content/uploads/2022/05/PMBGSC-LOGO-web-White.png",
-    school: "P.M.B. Gujarati science college",
+    school: "P.M.B. Gujarati science college, Indore (MP)",
     date: "Aug 2020 - July 2023",
     desc: "I have completed my Bachelor's degree in Computer Science from PMB Gujarati science collage, Indore. I have learned in C/C++, Data Structures, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others in college.",
     degree: "BCA - (Bachelor in computer application)",
@@ -109,7 +109,7 @@ export const education = [
   {
     id: 1,
     img: "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/BSEB_LOGO.svg/800px-BSEB_LOGO.svg.png",
-    school: "S. M. Intermediate college, Bihar (Hajipur), ",
+    school: "S. M. Intermediate college, Hajipur (Bihar)",
     date: "July 2017 - March 2019",
     desc: "I completed my class 12th high school education at S. M. Intermediate college, Bihar (Hajipur), where I studied Science.",
     degree: "BSEB(XII), Science",
@@ -117,7 +117,7 @@ export const education = [
   {
     id: 2,
     img: "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/BSEB_LOGO.svg/800px-BSEB_LOGO.svg.png",
-    school: "Rajkiyakrit Higher School, Bihar (Hajipur), ",
+    school: "Rajkiyakrit Higher School, Hajipur (Bihar)",
     date: "Apr 2017 - Apr 2019",
     desc: "I completed my class 10th education at Rajkiyakrit Higher School, Hajipur, Bihar.",
     degree: "BSEB(X), All Subject",
@@ -127,7 +127,7 @@ export const education = [
 export const projects = [
   {
     id: 0,
-    title: "e-store (working on it)",
+    title: "e-store",
     description:
       "Easy Navigation to Explore effortlessly with simple clicks to find what you want. Add to Cart & Wishlist option to Save for later with 'Add to Cart' and build your Wishlist for future buys. Search Functionality to Find what you need in seconds for our search functionality. Product Filters to Customize your search with more option, making it simple to find exactly what you need. Product Management Easily add, update, delete your product and Admin can add category and Subcategory.",
     image:
