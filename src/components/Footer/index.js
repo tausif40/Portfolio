@@ -1,6 +1,4 @@
 import styled from 'styled-components';
-import FacebookIcon from '@mui/icons-material/Facebook';
-import TwitterIcon from '@mui/icons-material/Twitter';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import { Bio } from '../../data/constants';
@@ -104,7 +102,6 @@ function Footer() {
         <Copyright>
           &copy; 2023 Mohd Tausif. All rights reserved.
         </Copyright>
-
       </FooterWrapper>
     </FooterContainer>
   );

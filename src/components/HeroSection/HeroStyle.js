@@ -6,7 +6,7 @@ export const HeroContainer = styled.div`
   display: flex;
   justify-content: center;
   position: relative;
-  padding: 20px 30px;
+  padding: 70px 50px;
   @media (max-width: 960px) {
     padding: 90px 16px;
   }
@@ -107,8 +107,8 @@ export const Img = styled.img`
   }
 
   @media (max-width: 640px) {
-    max-width: 280px;
-    max-height: 280px;
+    max-width: 300px;
+    max-height: 300px;
   }
 `;
 

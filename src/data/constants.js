@@ -27,6 +27,11 @@ export const skills = [
           "https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png",
       },
       {
+        name: "Java",
+        image:
+          "https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png",
+      },
+      {
         name: "HTML",
         image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
       },
@@ -101,7 +106,7 @@ export const education = [
   {
     id: 0,
     img: "https://gujaratisciencecollege.in/wp-content/uploads/2022/05/PMBGSC-LOGO-web-White.png",
-    school: "P.M.B. Gujarati science college",
+    school: "P.M.B. Gujarati science college, Indore (MP)",
     date: "Aug 2020 - July 2023",
     desc: "I have completed my Bachelor's degree in Computer Science from PMB Gujarati science collage, Indore. I have learned in C/C++, Data Structures, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others in college.",
     degree: "BCA - (Bachelor in computer application)",
@@ -109,15 +114,15 @@ export const education = [
   {
     id: 1,
     img: "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/BSEB_LOGO.svg/800px-BSEB_LOGO.svg.png",
-    school: "S. M. Intermediate college, Bihar (Hajipur), ",
+    school: "S. M. Intermediate college, Hajipur (Bihar) ",
     date: "July 2017 - March 2019",
-    desc: "I completed my class 12th high school education at S. M. Intermediate college, Bihar (Hajipur), where I studied Science.",
+    desc: "I completed my class 12th high school education at S. M. Intermediate college, Hajipur (Bihar), where I studied Science.",
     degree: "BSEB(XII), Science",
   },
   {
     id: 2,
     img: "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/BSEB_LOGO.svg/800px-BSEB_LOGO.svg.png",
-    school: "Rajkiyakrit Higher School, Bihar (Hajipur), ",
+    school: "Rajkiyakrit Higher School, Hajipur (Bihar) ",
     date: "Apr 2017 - Apr 2019",
     desc: "I completed my class 10th education at Rajkiyakrit Higher School, Hajipur, Bihar.",
     degree: "BSEB(X), All Subject",
@@ -126,25 +131,47 @@ export const education = [
 
 export const projects = [
   {
-    id: 0,
-    title: "e-store (working on it)",
+    id: 1,
+    title: "Patel Automotive web app",
+    description:
+      "Check out our new website for e-rickshaw! It's easy to use. You can look at lots of different e-rickshaws using our search option and convenient category and subcategory filters. Whether you're looking for a specific model or exploring different types, our app has you covered. And if you're selling or running the site, our admin panel makes it simple to manage everything. Enjoy the ease of shopping for e-rickshaws online.",
+    image:
+      "https://i.postimg.cc/CxLpb5hQ/patel-automotive.png",
+    tags: [ "HTML", "CSS", "Javascript", "tailwind css", "React Js" ],
+    category: "web app",
+    github: "https://github.com/tausif40/Patel_Automotive",
+    webapp: "https://main.d1oqgkt23giq9c.amplifyapp.com/",
+  },
+  {
+    id: 2,
+    title: "HTML-CSS clone",
+    description:
+      "Check out my website designs made with HTML and CSS! I copied the looks of some popular sites using code. They look just like the originals, from modern to colorful styles. Great for learning and getting ideas! Images of all the website are available on github repository.",
+    image: "https://i.postimg.cc/Y9ZLzCzq/web-img.png",
+    tags: [ "HTML", "CSS" ],
+    category: "web app",
+    github: "https://github.com/tausif40/HTML-CSS-pages",
+    webapp: "https://github.com/tausif40/HTML-CSS-pages",
+  },
+  {
+    id: 3,
+    title: "e-store",
     description:
       "Easy Navigation to Explore effortlessly with simple clicks to find what you want. Add to Cart & Wishlist option to Save for later with 'Add to Cart' and build your Wishlist for future buys. Search Functionality to Find what you need in seconds for our search functionality. Product Filters to Customize your search with more option, making it simple to find exactly what you need. Product Management Easily add, update, delete your product and Admin can add category and Subcategory.",
-    image:
-      "https://i.postimg.cc/fTdfyMwS/e-store-screenshort.png",
-    tags: [ "HTML", "Css", "Javascript", "React Js" ],
+    image: "https://i.postimg.cc/fTdfyMwS/e-store-screenshort.png",
+    tags: [ "HTML", "CSS", "Javascript", "React Js" ],
     category: "web app",
     github: "https://github.com/tausif40/e-store.git",
     webapp: "",
   },
   {
-    id: 1,
+    id: 4,
     title: "BIDME",
     description:
       "This is a simple bidding web app built with the popular JavaScript library React. In this web application user can use online auction and bidding facilities to sell their products.",
     image:
       "https://i.postimg.cc/66k1YjqR/Whats-App-Image-2024-02-18-at-1-30-54-AM.jpg",
-    tags: [ "HTML", "Css", "Javascript", "React Js" ],
+    tags: [ "HTML", "CSS", "Javascript", "React Js" ],
     category: "web app",
     github: "https://github.com/tausif40/BIDME--React-ui.git",
     webapp: "",

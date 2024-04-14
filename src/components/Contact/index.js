@@ -2,7 +2,6 @@ import React from "react";
 import styled from "styled-components";
 import { useRef } from "react";
 import emailjs from "@emailjs/browser";
-import { Snackbar } from "@mui/material";
 
 const Container = styled.div`
   display: flex;
@@ -134,7 +133,6 @@ const ContactButton = styled.input`
 `;
 
 const Contact = () => {
-  //hooks
   const [ open, setOpen ] = React.useState(false);
   const form = useRef();
 
@@ -164,13 +162,6 @@ const Contact = () => {
           <ContactInputMessage placeholder="Message" rows="4" name="message" required />
           <ContactButton type="submit" value="Send" />
         </ContactForm>
-        <Snackbar
-          open={open}
-          autoHideDuration={6000}
-          onClose={() => setOpen(false)}
-          message="Email sent successfully!"
-          severity="success"
-        />
       </Wrapper>
     </Container>
   );
