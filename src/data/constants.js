@@ -6,8 +6,7 @@ export const Bio = {
   description:
     "Recently graduated with a degree in computer Science and a good knowledge of frontend development. I'm good at using HTML, CSS, and JavaScript and I always keep up with the newest trends in the industry. A quick learner with excellent problem-solving abilities and a collaborative mindset. Looking forward to starting my career in making websites look awesome, bringing new ideas and lots of excitement to create cool experiences.",
   github: "https://github.com/tausif40",
-  resume:
-    "https://drive.google.com/file/d/1cvWhrcRQzasx1qpTRoiU762BrZhdVWIP/view?usp=drivesdk",
+  resume: "https://drive.google.com/file/d/17bAQeXXf_4rAoVDrjl6nSHAgHLqbubke/view?usp=drivesdk",
   linkedin: "https://www.linkedin.com/in/mohd-tausif-0142692a9/",
   insta: "https://www.instagram.com/tausif_778?igsh=MzFraDJvdGo3dXVw",
 };
