@@ -139,7 +139,7 @@ export const projects = [
     tags: [ "HTML", "CSS", "Javascript", "tailwind css", "React Js" ],
     category: "web app",
     github: "https://github.com/tausif40/Patel_Automotive",
-    webapp: "https://main.d1oqgkt23giq9c.amplifyapp.com/",
+    webapp: "https://patelautomotive.in",
   },
   {
     id: 2,
