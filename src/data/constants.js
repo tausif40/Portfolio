@@ -153,17 +153,6 @@ export const projects = [
     webapp: "https://github.com/tausif40/HTML-CSS-pages",
   },
   {
-    id: 3,
-    title: "e-store",
-    description:
-      "Easy Navigation to Explore effortlessly with simple clicks to find what you want. Add to Cart & Wishlist option to Save for later with 'Add to Cart' and build your Wishlist for future buys. Search Functionality to Find what you need in seconds for our search functionality. Product Filters to Customize your search with more option, making it simple to find exactly what you need. Product Management Easily add, update, delete your product and Admin can add category and Subcategory.",
-    image: "https://i.postimg.cc/fTdfyMwS/e-store-screenshort.png",
-    tags: [ "HTML", "CSS", "Javascript", "React Js" ],
-    category: "web app",
-    github: "https://github.com/tausif40/e-store.git",
-    webapp: "",
-  },
-  {
     id: 4,
     title: "BIDME",
     description:
