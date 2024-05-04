@@ -153,7 +153,7 @@ export const projects = [
     webapp: "https://github.com/tausif40/HTML-CSS-pages",
   },
   {
-    id: 4,
+    id: 3,
     title: "BIDME",
     description:
       "This is a simple bidding web app built with the popular JavaScript library React. In this web application user can use online auction and bidding facilities to sell their products.",
